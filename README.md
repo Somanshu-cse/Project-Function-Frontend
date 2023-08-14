@@ -43,7 +43,7 @@ Command Line
 Execute: npx hardhat run --network localhost scripts/deploy.js
 
 
-4. Return to the first terminal and commence operation of the front-end application.
+4. Return to the first terminal and commence the operation of the front-end application.
 
 Command Line
 Start with: npm run dev
@@ -57,7 +57,7 @@ Should any complications arise or inquiries materialize, do not hesitate to comm
 
 ## Authors
 - Creator 1: MetacrafterChris (Utilized their starter template)
-- Creator 2: [Sutirtho Chakravorty](mailto:somanshusharma888@gmail.com)
+- Creator 2: [Somanshu](mailto:somanshusharma888@gmail.com)
 
 ## Licensing
 
